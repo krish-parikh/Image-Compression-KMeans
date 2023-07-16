@@ -16,6 +16,6 @@ The compression ratio indicates the percentage reduction in the number of unique
 
 ## How to Run the Script
 1. Ensure that you have Python installed, along with the '**cv2**', '**numpy**', '**sklearn**', and '**matplotlib**' libraries.
-2. Run the script with python image_compression.py.
+2. Run through the notebook KMeans-Image-Compression.ipynb.
 3. When prompted, enter the path to the image file and the maximum number of clusters to test.
 4. The script will display the compressed images and the graphs of cost and compression ratio against the number of clusters.
